@@ -26,8 +26,9 @@ if(int.TryParse(entrada, out int  anoNascimento))
     int idade = anoAtual - anoNascimento;
     if (idade < 0)
     {
-        Console.WriteLine("Ano de nascimento inválido!");
+        Console.WriteLine("Ano de nascimento inválido! Você veio do futuro ?");
     }
+    else
     {
         Console.WriteLine($"Você tem {idade} anos.");
     }
