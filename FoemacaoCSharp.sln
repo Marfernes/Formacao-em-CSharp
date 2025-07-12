@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversoesDeTipos", "Conver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividades", "Atividades\Atividades.csproj", "{12C4B194-E78E-4499-8F67-C65F11D76DB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividades-2", "Atividades-2\Atividades-2.csproj", "{83848B46-8E6A-4B5B-B1F5-05B1C1E18CB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividades-3", "Atividades-3\Atividades-3.csproj", "{163E0914-AEA0-403A-ABD6-B3E717369EF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{12C4B194-E78E-4499-8F67-C65F11D76DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12C4B194-E78E-4499-8F67-C65F11D76DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12C4B194-E78E-4499-8F67-C65F11D76DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83848B46-8E6A-4B5B-B1F5-05B1C1E18CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83848B46-8E6A-4B5B-B1F5-05B1C1E18CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83848B46-8E6A-4B5B-B1F5-05B1C1E18CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83848B46-8E6A-4B5B-B1F5-05B1C1E18CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{163E0914-AEA0-403A-ABD6-B3E717369EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163E0914-AEA0-403A-ABD6-B3E717369EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163E0914-AEA0-403A-ABD6-B3E717369EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163E0914-AEA0-403A-ABD6-B3E717369EF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

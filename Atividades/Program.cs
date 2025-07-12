@@ -50,4 +50,3 @@ else
 {
     Console.WriteLine($"Valor da doação inválida! Digite um valor assim Exemplo: 100.50 ");
 }
-   
